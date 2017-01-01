@@ -5,7 +5,7 @@
         <div class="container">
            <div class="center wow fadeInDown">
                 <h2>Application Development</h2>
-                <p class="lead">This Aplication is built for use sample Laravel Crud Operation.<br> More services will be added periodically </p>
+                <p class="lead">This Aplication is built for use sample Laravel Crud Operation uSING lARAVEL 5.3.<br> More services will be added periodically </p>
             </div>
 
             <div class="row">
