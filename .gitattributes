@@ -1,4 +1,5 @@
 * text=auto
 *.css linguist-vendored
 *.scss linguist-vendored
-*.rb linguist-language=php
+$ cat .gitattributes
+*.rb linguist-language=Php
